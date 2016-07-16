@@ -1,0 +1,21 @@
+header.top{
+	background: $color1;
+	padding: 14px 0;
+	position: fixed;
+	left:0;
+	right:0;
+	z-index: 1;
+	h1{
+		margin: 0;
+		text-transform: uppercase;
+		font-weight: normal;
+		font-size: 1.2em;
+	}
+	a.menu{
+		position: absolute;
+		right: 15px;
+		top: 7px;
+		font-size: 1.5em;
+	}
+
+}

@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#fullpage").fullpage({anchors:["punchline","noticias","bandas","programas"],css3:!0})});

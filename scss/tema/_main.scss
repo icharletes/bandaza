@@ -1,0 +1,56 @@
+//HELPERS
+	//centrar elementos
+	.central {
+	  position: absolute;
+	  top: 50%; 
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	}
+
+#fullpage{
+	//margin-top: 51px;
+		#section0{
+			background: $color2;
+
+			}
+          	.data-punch{
+          		padding: 0 15px;
+				p.titular{
+					color:$blanco;
+					text-align: left;
+				}
+				h1{
+					color:$blanco;
+					font-size: 1.4em;
+	          	}
+		}
+		#slide1,#slide2{
+			background: $color3;
+			padding: 0px;
+			position: relative;
+			
+          	.data-noticia{
+          		padding: 0 15px;
+          		p.titular-noti{
+					color:$blanco;
+					text-align: left;
+					margin-top: 25px;
+					margin-bottom: 0;
+					font-size: 1.3em;
+          		}
+				h2{
+					font-size: 0.8em;
+					color: $blanco;
+					text-align: left;
+				}
+				p{
+					color:$blanco;
+					font-size: 1em;
+				}
+			}
+		}
+		
+		#section3{
+			background: $color2;
+		}
+}
