@@ -1,0 +1,17 @@
+commit 5388de262becd33186038da7ecbd0b4fb0d0de8f
+Author: icharls <icharls@iMac-de-iCharls.local>
+Date:   Fri Jul 15 20:13:27 2016 -0400
+
+    se agrego otro script
+
+commit af2a7f1882b5bef3f79d9ad95933fd76805afd15
+Author: icharls <icharls@iMac-de-iCharls.local>
+Date:   Fri Jul 15 20:10:59 2016 -0400
+
+    agregue otro div
+
+commit ea8208a1b85b8655fc19d6a14f745a1e4d0f480c
+Author: icharls <icharls@iMac-de-iCharls.local>
+Date:   Fri Jul 15 20:09:15 2016 -0400
+
+    iniciamos el primer commit
